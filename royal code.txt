@@ -1,0 +1,56 @@
+<html>
+<link rel="stylesheet" href="main.css">
+<body>
+<body style="background-image:url('bgbullet.webp');">
+<center>
+<div class="topnav">
+  <button onclick ="document.location ='https://www.royalenfield.com/'">home</button> 
+  <button onclick ="document.location ='https://www.royalenfield.com/in/en/our-world/media/news/'">News</button>
+ <button onclick ="document.location ='https://www.royalenfield.com/in/en/service'">service</button>
+  <button onclick ="document.location ='https://www.royalenfield.com/in/en/our-world/since-1901/'">About</button>
+  <button>Toll free number : 1800 210 0007</button>
+</div>  
+<h1 >ROYAL ENFIELD</h1>
+</center >
+<h2>CLASSIFICATIONS AND SPECIFICATIONS</h2>
+<b><p id="a">Royal Enfield is an Indian multinational motorcycle manufacturing company headquartered in Chennai, Tamil Nadu, India. The Royal Enfield brand, including its original English heritage, is the oldest global motorcycle brand in continuous production.The company operates manufacturing plants in Chennai in India. The first Royal Enfield motorcycle was built in 1901 by The Enfield Cycle Company of Redditch, Worcestershire, England, which was responsible for the design and original production of the Royal Enfield Bullet, the longest-lived motorcycle design in history.Licensed from the original English Royal Enfield by the indigenous Indian Madras Motors, the company is now a subsidiary of Eicher Motors Limited, an Indian automaker.The company makes classic-looking motorcycles including the Royal Enfield Bullet, Classic 350, Royal Enfield Thunderbird, Meteor 350, Classic 500, Interceptor 650, Continental and many more. Royal Enfield also make adventurous and offroading motorcycles like Royal Enfield Himalayan. Their motorcycles are equipped with single-cylinder and twin-cylinder engines.</p></b>
+
+<h3>for further information follow the below link</h3>
+<button onclick="document.location='http://www.royalenfield.com/' "><p style="color:red"> click here</p></button>
+
+<b><form align="center" style="color:white">
+<label for="terms and conditions" &nbsp>terms and conditions</label>&nbsp;&nbsp;
+<input type="checkbox" id="terms and conditions" value="terms and conditions";><br><br>
+
+<div>
+<video src="bullet.mp4" alt="bullet.mp4" height="350" width="650" controls></video>
+</div>
+</form><b>
+<h2>Categories:</h2>
+<p id="b">click on the name to redirect the link button</p> 
+ <div class="royal">
+<img src="hunter.webp" alt="https://www.royalenfield.com/content/dam/royal-enfield/hunter-350/hunter-350-motorcycle-landing.jpg" height="150" width="200"><br>
+<button onclick="document.location='https://www.royalenfield.com/in/en/motorcycles/hunter-350/' "><p style="color:red"> Hunter 350</p></button>&nbsp;
+
+
+
+ 
+<img src="classic.jpg"alt="https://www.royalenfield.com/content/dam/royal-enfield/india/motorcycles/classic-350/landing/classic-350-motorcycle.jpg" height="150" width="200"><br>
+<button onclick="document.location='https://www.royalenfield.com/in/en/motorcycles/classic-350/' "><p style="color:red"> Classic 350</p></button>&nbsp;
+
+ 
+<img src="interceptor.webp" alt="https://www.royalenfield.com/content/dam/royal-enfield/india/motorcycles/landing/interceptor-new.jpg" height="150" width="200"><br>
+<button onclick="document.location='https://www.royalenfield.com/in/en/motorcycles/interceptor/' "><p style="color:red">Interceptor</p></button>&nbsp;
+
+
+<img src="himalayan.webp" alt="https://www.royalenfield.com/content/dam/royal-enfield/india/motorcycles/landing/royal-enfield-himalayan.jpg" height="150" width="200"><br>
+<button onclick="document.location='https://www.royalenfield.com/in/en/motorcycles/himalayan/' "><p style="color:red">Himalayan</p></button>&nbsp;
+
+ 
+<img src="continental.jpg" alt="https://www.royalenfield.com/content/dam/royal-enfield/india/motorcycles/landing/continental-gt-new.jpg" height="150" width="200"><br>
+<button onclick="document.location='https://www.royalenfield.com/in/en/motorcycles/continental-gt/' "><p style="color:red">Continental GT </p></button>&nbsp;<br><br>
+</div><br><br><br>
+ 
+
+</body>
+</html>
